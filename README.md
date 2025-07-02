@@ -9,4 +9,4 @@ python3 main/main.py
 ```
 ### Licence
 This code is licenced under GNU GPL 3.0 Public Licence.
-See [LICENCE](LICENCE)
+See [LICENCE](https://github.com/web-coder-of-rpi/BinaryConvert/blob/main/LICENSE).
